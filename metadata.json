@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Malaysia",
+  "description": "Platform koordinasi projek dan kejuruteraan no. 1 di Malaysia, berharga dalam Ringgit Malaysia (RM), menyokong DuitNow, FPX, dan pematuhan PDPA tempatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
